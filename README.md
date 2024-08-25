@@ -2,6 +2,9 @@
 https://antoniotony.pythonanywhere.com
 
 ## Note di sviluppo
+
+## app.py : sample file
+
 ## CMD / Terminale
 - Attivare ambiente virtuale in VSC: <code>python -m venv .venv</code>
 - Visualizza la versione di Python: <code>python -V</code>
